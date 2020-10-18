@@ -1,7 +1,7 @@
 
 <h1 style="text-align:center">CoronaVirus Cases Monitoring & Alerting Tool
 </h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/covid.png">
 
 
 This is a simple monitering & alerting tool for those of you who are worried (Paranoid xD ) about the covid-19 propagation in a certain country. 
