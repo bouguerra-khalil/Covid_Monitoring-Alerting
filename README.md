@@ -34,7 +34,7 @@ $ tar -xf geckodriver-v0.27.0-linux64.tar.gz
 You  will need to set up in ```config.py```: 
 
 	- A gmail address in order to be able to send situation update notification emails.
-	- List of countries you want to moniter  
+	- List of countries you want to monitor  
 	- List of emails users or subscribers  to send update notifications too 
 	- Cloud service or a laptop laying arround to run the app on. 
 
